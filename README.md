@@ -26,8 +26,13 @@ Project Structure
 
 
 com.kaan_karahan.LibraryManagementSystem
+
 ├── Controller REST API endpoints
+
 ├── Model Book entity
+
 ├── Repository Database access layer
+
 ├── Service Business logic
+
 └── LibraryManagementSystemApplication.java
